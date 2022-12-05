@@ -28,7 +28,7 @@ class _SplashScreenState extends State<SplashScreen> {
           child: Padding(
             padding: const EdgeInsets.all(150.0),
             child: Image.asset(
-              'icons/bhagavad-gita.png'
+              'icons/pizza.png'
             ),
           ),
         ),

@@ -3,6 +3,10 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:moodly/result.dart';
 import 'package:moodly/result2.dart';
+import 'package:moodly/result3.dart';
+import 'package:moodly/result4.dart';
+import 'package:moodly/result5.dart';
+import 'package:moodly/result6.dart';
 import 'package:page_transition/page_transition.dart';
 import 'globals.dart' as globals;
 
@@ -190,7 +194,7 @@ class _Home extends State<Home> {
                                   context,
                                   PageTransition(
                                       type: PageTransitionType.bottomToTop,
-                                      child: const Result()));
+                                      child: const Result3()));
                             },
                             child: Container(
                                 height: MediaQuery.of(context).size.height / 5,
@@ -239,7 +243,7 @@ class _Home extends State<Home> {
                                   context,
                                   PageTransition(
                                       type: PageTransitionType.bottomToTop,
-                                      child: const Result()));
+                                      child: const Result4()));
                             },
                             child: Container(
                                 height: MediaQuery.of(context).size.height / 5,
@@ -346,7 +350,7 @@ class _Home extends State<Home> {
                                   context,
                                   PageTransition(
                                       type: PageTransitionType.bottomToTop,
-                                      child: const Result()));
+                                      child: const Result5()));
                             },
                             child: Container(
                                 height: MediaQuery.of(context).size.height / 5,
@@ -363,14 +367,14 @@ class _Home extends State<Home> {
                                         CrossAxisAlignment.center,
                                     children: [
                                       Text(
-                                        '🤥',
+                                        '😪',
                                         style: GoogleFonts.abel(
                                             color: Colors.black,
                                             fontSize: 25,
                                             fontWeight: FontWeight.bold),
                                       ),
                                       Text(
-                                        'Arrogent',
+                                        'Lazy',
                                         style: GoogleFonts.abel(
                                             color: Colors.black,
                                             fontSize: 25,
@@ -396,7 +400,7 @@ class _Home extends State<Home> {
                                   context,
                                   PageTransition(
                                       type: PageTransitionType.bottomToTop,
-                                      child: const Result()));
+                                      child: const Result6()));
                             },
                             child: Container(
                                 height: MediaQuery.of(context).size.height / 5,
@@ -420,7 +424,7 @@ class _Home extends State<Home> {
                                             fontWeight: FontWeight.bold),
                                       ),
                                       Text(
-                                        'Nutral',
+                                        'Us',
                                         style: GoogleFonts.abel(
                                             color: Colors.black,
                                             fontSize: 25,
