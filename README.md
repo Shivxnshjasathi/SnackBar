@@ -1,16 +1,11 @@
-# moodly
+Introducing SnackBar
 
-A new Flutter project.
+A Flutter ML App for snack recommendations according to your mood .
 
-## Getting Started
+App Contains 5 different mood and suggest different food according to your mood.
 
-This project is a starting point for a Flutter application.
+Technology used are Flutter, Firebase and Python
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://user-images.githubusercontent.com/116382647/207404568-dbf14d01-dcf8-4ac0-88dc-3891989a406d.mp4
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
